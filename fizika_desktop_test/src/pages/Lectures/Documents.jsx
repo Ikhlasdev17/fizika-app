@@ -18,7 +18,7 @@ const lectures = [
   },
   {
       id: 3,
-      title: '3-lekciya. Materiallıq noqat dinemikası',
+      title: '3-lekciya. Materiallıq noqat dinamikası',
       file: '3-lekciya.docx',
       type: 'docx'
   },

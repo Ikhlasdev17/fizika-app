@@ -6,91 +6,91 @@ import { Link } from 'react-router-dom'
 const practices = [
     {
         id: 1,
-        title: '1-ámeliy shınıǵıw.',
+        title: '1-Ámeliy shınıǵıw.',
         file: '1-ameliy.docx',
         type: 'docx'
     },
     {
         id: 2,
-        title: '2-ámeliy shınıǵıw.',
+        title: '2-Ámeliy shınıǵıw.',
         file: '2-ameliy.docx',
         type: 'docx'
     },
     {
         id: 3,
-        title: '3-ámeliy shınıǵıw.',
+        title: '3-Ámeliy shınıǵıw.',
         file: '3-ameliy.docx',
         type: 'docx'
     },
     { 
         id: 4,
-        title: '4-ámeliy shınıǵıw.',
+        title: '4-Ámeliy shınıǵıw.',
         file: '4-ameliy.docx',
         type: 'docx'
     }, 
     { 
         id: 55,
-        title: '5-ámeliy shınıǵıw.',
+        title: '5-Ámeliy shınıǵıw.',
         file: '5-ameliy.docx',
         type: 'docx'
     }, 
     {
         id: 5,
-        title: '6-ámeliy shınıǵıw.',
+        title: '6-Ámeliy shınıǵıw.',
         file: '6-ameliy.docx',
         type: 'docx'
     },
     { 
         id: 7,
-        title: '7-ámeliy shınıǵıw.',
+        title: '7-Ámeliy shınıǵıw.',
         file: '7-ameliy.docx',
         type: 'docx'
     },
     {
         id: 8,
-        title: '8-ámeliy shınıǵıw.',
+        title: '8-Ámeliy shınıǵıw.',
         file: '8-ameliy.docx',
         type: 'docx'
     }, 
     {
         id: 9,
-        title: '9-ámeliy shınıǵıw.',
+        title: '9-Ámeliy shınıǵıw.',
         file: '9-ameliy.docx',
         type: 'docx'
     }, 
     {
         id: 10,
-        title: '10-ámeliy shınıǵıw.',
+        title: '10-Ámeliy shınıǵıw.',
         file: '10-ameliy.docx',
         type: 'docx'
     },
     {
         id: 11,
-        title: '11-ámeliy shınıǵıw.',
+        title: '11-Ámeliy shınıǵıw.',
         file: '11-ameliy.docx',
         type: 'docx'
     },
     {
         id: 12,
-        title: '12-ámeliy shınıǵıw.',
+        title: '12-Ámeliy shınıǵıw.',
         file: '12-ameliy.docx',
         type: 'docx'
     },
     {
         id: 13,
-        title: '13-ámeliy shınıǵıw.',
+        title: '13-Ámeliy shınıǵıw.',
         file: '13-ameliy_or.docx',
         type: 'docx'
     },
     {
         id: 13,
-        title: '14-ámeliy shınıǵıw.',
+        title: '14-Ámeliy shınıǵıw.',
         file: '13-ameliy.docx',
         type: 'docx'
     },
     {
         id: 14,
-        title: '15-ámeliy shınıǵıw.',
+        title: '15-Ámeliy shınıǵıw.',
         file: '15-ameliy.docx',
         type: 'docx'
     },

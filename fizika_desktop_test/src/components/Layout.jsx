@@ -121,8 +121,8 @@ export default () => {
             <Route path='/lectures/glassary/:file' element={<Details  title={title} />} />
             <Route path='/self-study/:file' element={<Details  title={title} />} />
             <Route path='/certificate' element={<Certificate />} />
-            <Route path='/tests' element={<Tests />} />
-            <Route path='/tests/:file' element={<TestDetails  title={title} />} />
+            <Route path='/tests' element={<Tests setTitle={setTitle} title={title} />} />
+            <Route path='/tests/:file' element={<TestDetails  setTitle={setTitle} title={title} />} />
             <Route path='/bahalaw_kriteriyalari' element={<Bahalaw setTitle={setTitle} />} />
             <Route path='/bahalaw_kriteriyalari/:file' element={<Details  title={title} />} />
             <Route path='/isshi_oqiw_bagdarlamasi' element={<IsshiOqiw setTitle={setTitle} />} />
