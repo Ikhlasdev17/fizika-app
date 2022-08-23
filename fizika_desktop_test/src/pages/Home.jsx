@@ -14,7 +14,7 @@ const Home = () => {
             <img width={200} height={200} src={logo} alt="" />
             </div>
             <br />
-            <h4>"Fizika I kursı boyınsha prezentaciyalıq multimedialı shınıǵiwlar toplamı" elektron oqıw qollanbası</h4>
+            <h4>"Fizika I kursı boyınsha prezentaciyalıq multimedialı shınıǵıwlar toplamı" elektron oqıw qollanbası</h4>
             <span>Tábiyiy hám anıq pánler kafedrası</span>
             <span><b>Dúziwshi</b>: <span className='underline'>ass. S.G. Kaypnazarov</span></span>
             <br /><br />

@@ -30,7 +30,7 @@ const labaratories = [
     },
     {
         id: 6,
-        title: '5 – Laboratoriyalıq jumıs (virtual). DENELERDIŃ INERCIYA MOMENTLERIN BURALMA TERBELISLER USILINDA ÓLSHEW',
+        title: '5 – Laboratoriyalıq jumıs (virtual). DENELERDIŃ INERCIYA MOMENTLERIN BURALMA TERBELISLER USÍLÍNDA ÓLSHEW',
         file: '5-labara.docx',
         type: 'docx'
     },

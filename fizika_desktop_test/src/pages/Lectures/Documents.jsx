@@ -24,7 +24,7 @@ const lectures = [
   },
   {
       id: 4,
-      title: '4-lekciya. Qattı dene aylanba háreketi.',
+      title: '4-lekciya. Qattı dene aylanbalı háreketi.',
       file: '4-lekciya.docx',
       type: 'docx'
   },
@@ -67,7 +67,7 @@ const lectures = [
   },
   {
       id: 9,
-      title: '11-lekciya. Elеktr maydanındа dielеktrikler hám ótkizgi shler',
+      title: '11-lekciya. Elеktr maydanındа dielеktrikler hám ótkizgishler',
       file: '11-lekciya.docx',
       type: 'docx'
   },

@@ -99,7 +99,7 @@ export default () => {
             <Link to="/policy">Shártnama</Link>
           </Menu.Item>
           <Menu.Item key="771">
-            <Link to="/author">Avtor haqqinda maǵlıwmat</Link>
+            <Link to="/author">Avtor haqqında maǵlıwmat</Link>
           </Menu.Item>
       </Menu>
     </Sider>
